@@ -1,2 +1,7 @@
 # scratch-gravity-simulator
-a gravity simulator built in scratch
+
+link for the project:
+[https://scratch.mit.edu/projects/531646150]
+
+turbowarp link for a faster game:
+[https://turbowarp.org/531646150/fullscreen]
